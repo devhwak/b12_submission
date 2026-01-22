@@ -12,8 +12,8 @@ payload = {
     "action_run_link": "https://github.com/yourname/yourrepo/actions/runs/123456789",
     "email": "oskar.emil.lindstrom@gmail.com",
     "name": "Oskar Lindström",
-    "repository_link": "https://github.com/devhwak/yourrepo",
-    "resume_link": "https://pdf-or-html-or-linkedin.example.com",
+    "repository_link": "https://github.com/devhwak/b12_submission",
+    "resume_link": "https://drive.google.com/file/d/1vArtzpTcIgvrxKefGQwKdQqtROvI7KSJ/view?usp=sharing",
     "timestamp": datetime.now(timezone.utc).isoformat(timespec="milliseconds").replace("+00:00", "Z"),
 }
 
